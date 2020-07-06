@@ -9,3 +9,4 @@
 
 时间都让我偷走了！
 
+fu ssh key add
